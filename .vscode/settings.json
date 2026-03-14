@@ -1,0 +1,10 @@
+{
+  "json.schemaDownload.enable": false,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "vue"
+  ]
+}
